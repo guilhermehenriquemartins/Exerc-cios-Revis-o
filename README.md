@@ -5,4 +5,4 @@
 
  <a href ="https://guilhermehenriquemartins.github.io/Exerc-cios-Revis-o/ex018/tamanho.html" target="_blank" rel="self">Exercício 18</a>
 
- <a href="" target="_blank" rel="self">Exercício 19</a>
+ <a href="https://guilhermehenriquemartins.github.io/Exerc-cios-Revis-o/ex019/ex019.html" target="_blank" rel="self">Exercício 19</a>
