@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    background-image: url('html5.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 700px;
+    margin: auto;
+    padding: 5px;
+    border-radius: 10px;
+    font: normal 1.5em Arial;
+}
+
+h1 {
+    color: rgb(97, 31, 9);
+}
+
+h2 {
+    color: rgb(119, 39, 13);
+}
